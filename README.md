@@ -1,3 +1,9 @@
+# wemc
+
+#### 介绍
+美宸时科的小程序UI框架
+
+
 ## 开发
 
 1. 安装依赖：
@@ -40,3 +46,5 @@ src 下每个组件目录对应一个 npm 模块，需保证文件名均为 inde
 ## 发布npm包
 
 `npm run dist` 后生成 miniprogram_npm 目录，进入到每个子项目中执行 `npm publish --access=publish`
+
+
