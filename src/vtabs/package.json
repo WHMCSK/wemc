@@ -1,5 +1,5 @@
 {
-  "name": "@miniprogram-component-plus/vtabs",
+  "name": "@wemc/vtabs",
   "version": "1.0.0",
   "description": "",
   "main": "miniprogram_dist/index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@miniprogram-component-plus/select-text",
+  "name": "@wemc/select-text",
   "version": "1.0.1",
   "description": "",
   "main": "miniprogram_dist/index.js",

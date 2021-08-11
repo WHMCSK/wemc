@@ -1,6 +1,6 @@
 {
-  "name": "miniprogram-component-plus",
-  "version": "1.0.0",
+  "name": "wemc",
+  "version": "0.0.1",
   "description": "",
   "main": "miniprogram_dist/index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "xushengni,sanfordsusn",
+  "author": "xushengni,sanfordsusn,jinfei",
   "license": "MIT",
   "husky": {
     "hooks": {

@@ -1,5 +1,5 @@
 {
-  "name": "@miniprogram-component-plus/sticky",
+  "name": "@wemc/sticky",
   "version": "1.0.1",
   "description": "",
   "main": "miniprogram_dist/index.js",

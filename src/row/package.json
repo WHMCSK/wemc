@@ -1,5 +1,5 @@
 {
-    "name": "@miniprogram-component-plus/row",
+    "name": "@wemc/row",
     "version": "1.0.0",
     "description": "",
     "main": "miniprogram_dist/index.js",
